@@ -46,7 +46,7 @@ I specialize in **COBOL, JCL, VSAM, DB2**, and also enjoy experimenting with **A
 # 💼 Work Experience  
 
 ### 🏢 **Jr. Software Engineer — Cognizant**  
-📅 *2023 — Present*  
+📅 *2022 — Present*  
 📍 Kolkata, India  
 
 #### **Responsibilities:**  
